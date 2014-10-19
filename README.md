@@ -1,6 +1,6 @@
 markdown-reference
 ==================
-A list of links about Markdown syntax and using with various program tools.
+A list of links about Markdown syntax and using it with various program tools.
 
 # Markdown Basics
 1. [Markdown: Basics](http://daringfireball.net/projects/markdown/basics).
