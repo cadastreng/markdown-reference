@@ -1,4 +1,4 @@
-markdown-reference
+The Markdown Reference
 ==================
 A list of links about Markdown syntax and using it with various program tools.
 
