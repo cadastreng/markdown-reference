@@ -8,3 +8,7 @@ A list of links about Markdown syntax and using it with various program tools.
 # R Markdown
 1. [R Markdown — Dynamic Documents for R](http://rmarkdown.rstudio.com/?version=0.98.1074&mode=desktop).
 2. [Using R Markdown](https://support.rstudio.com/hc/en-us/articles/200552086-Using-R-Markdown) by Josh Paulson.
+3. 
+
+### Convert to PDF
+1. How to [install TeXLive 2014](http://askubuntu.com/questions/486170/upgrade-from-tex-live-from-2013-to-2014-on-ubuntu-14-04).
